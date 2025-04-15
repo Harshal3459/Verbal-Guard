@@ -1,1 +1,1 @@
-##Verbal Guard
+Verbal Guard
