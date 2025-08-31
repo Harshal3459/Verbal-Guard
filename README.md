@@ -22,10 +22,14 @@ Verbal-Guard is a web application focused on user-generated content with moderat
 
 ---
 
-## Screenshot
+## Screenshots
 
 ![SignUp Page](images/Signup.png)
+
 ![Login Page](images/login.png)
+
 ![Home Page](images/home.png)
+
 ![Warning Message](images/Warning.png)
+
 ![Banned Message](images/banned.png)
