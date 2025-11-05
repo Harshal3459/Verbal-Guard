@@ -1,6 +1,6 @@
 # Verbal-Guard
 
-Verbal-Guard is a web application focused on user-generated content with moderation features. Users can sign up, post messages, and interact with a system that may include hate-speech detection.
+Verbal-Guard is a web application focused on user-generated content with moderation features. Users can sign up, post messages, and interact with each other without worrying about hate-speech.
 
 ---
 
